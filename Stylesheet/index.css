@@ -1,0 +1,137 @@
+* {
+    font-family: denk one;
+   }
+
+.wrapper {
+    display: flex;
+}
+
+.box1 {
+    width: 719px;
+    height: 1016px;
+    margin-left: 189px;
+    margin-top: 118px;
+}
+
+.box2 {
+    width: 1186px;
+    height: 132px;
+    margin-left: 0px;
+    margin-top: 118px;
+}
+
+.yellow1 {
+    width: 632px;
+    height: 97px;
+    margin-left: 270px;
+    margin-top: 516px;
+    position: relative;
+}
+
+.yellow2 {
+    width: 632px;
+    height: 97px;
+    margin-left: 270px;
+    margin-top: 12px;
+    position: relative;
+}
+
+.yellow3 {
+    width: 632px;
+    height: 97px;
+    margin-left: 270px;
+    margin-top: 12px;
+    position: relative;
+}
+
+.Profile-pic {
+    width: 1186px;
+    height: 884px;
+    margin-right: 1393px;
+    margin-top: 132px;
+}
+
+.wrapper1 {
+    display: flex;
+}
+
+.White-box1 {
+    width: 1905px;
+    height: 704px;
+    margin-left: 189px;
+}
+
+.blackbox-medium {
+    width: 434px;
+    height: 432px;
+    margin-left: 134px;
+    margin-top: 98px;
+}
+
+.greyscale-box {
+    width: 434px;
+    height: 432px;
+    margin-left: 46px;
+    margin-top: 39px;
+    position: absolute;
+}
+
+.About {
+    font-size: large;
+    margin-left: 1018px;
+    margin-top: 107px;
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Download-CV {
+    position: absolute;
+    margin-left: 1443px;
+    margin-top: -80px;
+    background-color: #ebad3e;
+    color: black;
+    border: none;
+    height: 150px;
+    width: 531px;
+    border-radius: 500px;
+    font-weight: bold; 
+    font-size: 30px;
+    cursor: pointer;
+    transition: box-shadow 0.15s;
+    vertical-align: middle;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 10px;
+    padding-right: 11px;
+    text-align: center;
+}
+.Download-CV:hover {
+    box-shadow: 5px 5px 10px rgba(0,0,0, 0.15);
+}
+
+.Download-CV:active {
+    opacity: 0.8;
+}
+
+.greyscale-box {
+    background: #969696 ;
+}
+
+.blackbox-medium {
+    background: #1B1B1B;
+}
+.White-box1 {
+    background: #ECECEC;
+}
+.yellowbox1 {
+    background: #ebad3e;
+}
+
+.black {
+    background: #1B1B1B;
+}
+
+.red {
+    background: #b92424;
+}
